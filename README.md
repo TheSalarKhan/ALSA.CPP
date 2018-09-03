@@ -12,3 +12,6 @@ iii) constants.h
 For a very short example of how to use this wrapper with playback as well as with capture devices go and have a look at play_plain_audio.cpp
 
 # REMEMBER TO USE HEADPHONES WHEN RUNNING THE EXAMPLE BECAUSE IT CAN FEEDBACK...
+
+# CREDITS (HOW DID YOU EVEN DO THIS???)
+Well thanks to this guy: https://www.linuxjournal.com/article/6735?page=0,1
